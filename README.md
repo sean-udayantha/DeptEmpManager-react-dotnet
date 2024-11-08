@@ -22,5 +22,5 @@ DeptEmpManager is a comprehensive web application designed for managing employee
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/DeptEmpManager.git
-   cd DeptEmpManager
+   git clone https://github.com/sean-udayantha/DeptEmpManager-react-dotnet.git
+   
