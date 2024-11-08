@@ -34,7 +34,7 @@ DeptEmpManager is a comprehensive web application designed for managing employee
    npm run dev
    ```
    
-3. **steup backend*:
+3. **steup backend**:
    ```bash
    cd path/to/backend
    dotnet restore
