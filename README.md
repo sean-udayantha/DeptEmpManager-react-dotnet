@@ -23,4 +23,22 @@ DeptEmpManager is a comprehensive web application designed for managing employee
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/sean-udayantha/DeptEmpManager-react-dotnet.git
+   cd DeptEmpManager
+
+   ```
    
+2. **steup frontend**:
+   ```bash
+   cd frontend
+   npm install
+   npm run dev
+   ```
+   
+3. **steup backend*:
+   ```bash
+   cd path/to/backend
+   dotnet restore
+   "ConnectionStrings": { "DefaultConnection": "Server=your-server;Database=your-database;User=your-user;Password=your-password;"}
+   dotnet ef database update
+   dotnet run
+   ```
